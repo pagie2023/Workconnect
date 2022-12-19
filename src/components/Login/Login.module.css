@@ -1,0 +1,31 @@
+.login{
+    /* width: 100%; */
+    height: 79vh;
+    margin: auto;
+    background-image: url('../../assets/Login/BG.svg');
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    z-index: -1;
+}
+.footer{
+    width: 100%;
+
+    margin: auto;
+}
+
+.btnLogin {
+    padding: 1rem;
+    background-color:#F14281;
+    width: 140px;
+    height:52px;
+    font-size:14px;
+    font-weight:400;
+	border-radius:3rem; 
+    line-height:20px; 
+    color: white;
+    margin-top:2rem;
+    border:none;
+    justify-content:none;
+    gap: 1rem;
+}
